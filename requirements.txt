@@ -2,3 +2,7 @@ streamlit
 graphviz
 networkx
 matplotlib
+torch
+torchvision
+pillow
+pandas
